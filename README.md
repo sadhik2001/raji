@@ -14,6 +14,9 @@ credit-card-fraud-detection/
 ├── notebooks/
 │   └── eda.ipynb                    # Exploratory Data Analysis
 │
+|──models/
+|  └── random_forest.pkl             # # automatically creates a This saves your trained model into the models/ directory.
+|
 ├── src/
 │   ├── preprocess.py                # Preprocessing steps
 │   ├── train_model.py               # Model training
@@ -54,9 +57,10 @@ python main.py
 # Step 5: Evaluate the model:
 python src/evaluate.py
 
-
+#step 6: create a models directory to saves your trained model into the models/ directory.
 ```
-
+cd credit-card-fraud-detection/
+mkdir models
 ---
 
 ## 🧪 Output Example
