@@ -1,3 +1,38 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+data/creditcard.csv
+data/creditcard.csv
+# Ignore data files
+data/
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VSCode settings (if you use VSCode)
+.vscode/
+
+# Ignore environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git LFS files (optional, safe to add)
+.gitattributes
+
+# Ignore logs
+*.log
+data/creditcard.csv
+
