@@ -61,7 +61,8 @@ python src/evaluate.py
 cd credit-card-fraud-detection/
 mkdir models
 
----
+
+```
 ## 🧪 Output Example
 
 When you run it, you’ll see output like:
