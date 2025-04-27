@@ -46,6 +46,7 @@ credit-card-fraud-detection/
 pip install -r requirements.txt
 
 # Step 3: Make sure dataset is in data/creditcard.csv
+you need to dowloadfrom above mentioned as dataset and upload "credicard.csv" file in /data folder we are unable to upload as size is big.
 
 # Step 4: Run the main script or Train the model:
 python main.py
