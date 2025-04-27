@@ -58,11 +58,10 @@ python main.py
 python src/evaluate.py
 
 #step 6: create a models directory to saves your trained model into the models/ directory.
-```
 cd credit-card-fraud-detection/
 mkdir models
----
 
+---
 ## 🧪 Output Example
 
 When you run it, you’ll see output like:
